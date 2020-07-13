@@ -6,7 +6,7 @@ LinkedIn: https://www.linkedin.com/in/cheahengsoon/
 
 Blog: https://dev.to/cheahengsoon
 
-YouTube: https://www.youtube.com/channel/UCb09I4K-VYU-KMh0vFewUMw
+YouTube: https://www.youtube.com/c/mvponduty
 
 Email: cheahengsoon@live.com.my
 
