@@ -10,6 +10,10 @@ YouTube: https://www.youtube.com/c/mvponduty
 
 Email: cheahengsoon@live.com.my
 
+Speaker Profile: https://sessionize.com/eng-soon-cheah
+
+MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%20Soon%20Cheah
+
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
