@@ -4,6 +4,8 @@ Eng Soon is a Microsoft MVP and certified Professional with more than 6 years of
 
 LinkedIn: https://www.linkedin.com/in/cheahengsoon/
 
+Twitter: https://twitter.com/mvpondutysea
+
 Blog: https://dev.to/cheahengsoon
 
 YouTube: https://www.youtube.com/c/mvponduty
