@@ -16,6 +16,8 @@ Speaker Profile: https://sessionize.com/eng-soon-cheah
 
 MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%20Soon%20Cheah
 
+<script type="text/javascript" src="https://sessionize.com/api/speaker/sessions/144a65d5-aea5-4a0d-b8e0-77aec813d535/0x0x3fb393x"></script>
+
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
