@@ -25,7 +25,7 @@ Speaker Profile: https://sessionize.com/eng-soon-cheah
 MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%20Soon%20Cheah
 
 <img src="https://github-readme-stats.vercel.app/api?username=cheahengsoon&show_icons=true&count_private=true" align="center" />
-<img width="35%" height="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=layzhi&layout=compact">
+<img width="35%" height="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheahengsoon&layout=compact">
 
 
 
