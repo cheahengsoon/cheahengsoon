@@ -26,9 +26,7 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 
 <img src="https://github-readme-stats.vercel.app/api?username=cheahengsoon&show_icons=true&count_private=true" align="center" />
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+
 
 
 <!--
