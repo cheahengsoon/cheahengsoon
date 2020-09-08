@@ -26,6 +26,7 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 
 <img src="https://github-readme-stats.vercel.app/api?username=cheahengsoon&show_icons=true&count_private=true" align="center" />
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=cheahengsoon)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
