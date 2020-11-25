@@ -28,7 +28,7 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cheahengsoon)](https://github.com/ryo-ma/github-profile-trophy)
 
-# Blog posts
+# Blog posts (Dev.to & Medium)
 <!-- BLOG-POST-LIST:START -->
 - [Security Testing with ZAP and GitHub Actions](https://dev.to/cheahengsoon/security-testing-with-zap-and-github-actions-4kae)
 - [Security Testing with ZAP and GitHub Actions](https://medium.com/@engsooncheah/security-testing-with-zap-and-github-actions-604b1e1fbd2a?source=rss-18b0bdc43bc0------2)
