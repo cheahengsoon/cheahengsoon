@@ -30,11 +30,11 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 
 # Feeds
 <!-- BLOG-POST-LIST:START -->
+- [Security, Privacy, Compliance and Trust - Manage resource locks](https://www.youtube.com/watch?v=M6WXsJOrC0s)
 - [Security, Privacy, Compliance and Trust - Secure network traffic](https://www.youtube.com/watch?v=SKAx-qKeqYw)
 - [Security, Privacy, Compliance and Trust - Manage access with RBAC](https://www.youtube.com/watch?v=q9cLA1pq1ik)
 - [Security, Privacy, Compliance and Trust - Create an Azure Policy](https://www.youtube.com/watch?v=GUbeMeHFoy4)
 - [Designing for Identity and Security - Securing Secrets in Azure](https://www.youtube.com/watch?v=dDi7r28qLwU)
-- [Security Testing with ZAP and GitHub Actions](https://dev.to/cheahengsoon/security-testing-with-zap-and-github-actions-4kae)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
