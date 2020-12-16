@@ -30,11 +30,11 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 
 # Feeds
 <!-- BLOG-POST-LIST:START -->
+- [UNBOXING - RAZER CARD](https://www.youtube.com/watch?v=gE-EF_X20BM)
 - [Export Flat File based on each SQL statement in the table and destination](https://medium.com/@engsooncheah/export-flat-file-based-on-each-sql-statement-in-the-table-and-destination-f44430122e3b?source=rss-18b0bdc43bc0------2)
 - [Security, Privacy, Compliance and Trust - Manage resource locks](https://www.youtube.com/watch?v=M6WXsJOrC0s)
 - [Security, Privacy, Compliance and Trust - Secure network traffic](https://www.youtube.com/watch?v=SKAx-qKeqYw)
 - [Security, Privacy, Compliance and Trust - Manage access with RBAC](https://www.youtube.com/watch?v=q9cLA1pq1ik)
-- [Security, Privacy, Compliance and Trust - Create an Azure Policy](https://www.youtube.com/watch?v=GUbeMeHFoy4)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
