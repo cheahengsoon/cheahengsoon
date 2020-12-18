@@ -31,7 +31,7 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 # Feeds
 <!-- BLOG-POST-LIST:START -->
 - [#myyearinreview YouTube 2020 Year In Review @TubeBuddy](https://www.youtube.com/watch?v=z9so3ZyJVUo)
-- [UNBOXING - RAZER CARD](https://www.youtube.com/watch?v=gE-EF_X20BM)
+- [UNBOXING - RAZER CARD @R Λ Z Ξ R](https://www.youtube.com/watch?v=gE-EF_X20BM)
 - [Export Flat File based on each SQL statement in the table and destination](https://medium.com/@engsooncheah/export-flat-file-based-on-each-sql-statement-in-the-table-and-destination-f44430122e3b?source=rss-18b0bdc43bc0------2)
 - [Security, Privacy, Compliance and Trust - Manage resource locks](https://www.youtube.com/watch?v=M6WXsJOrC0s)
 - [Security, Privacy, Compliance and Trust - Secure network traffic](https://www.youtube.com/watch?v=SKAx-qKeqYw)
