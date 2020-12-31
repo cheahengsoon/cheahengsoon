@@ -30,11 +30,11 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 
 # Feeds
 <!-- BLOG-POST-LIST:START -->
+- [Securing Identities - Lab: Implementing custom Role Based Access Control (RBAC) roles](https://www.youtube.com/watch?v=mA4-AWQQWc0)
 - [Can’t Ping AzURE VM](https://medium.com/@engsooncheah/cant-ping-azure-vm-2fce1cf45906?source=rss-18b0bdc43bc0------2)
 - [Enable Audio in Azure VM](https://medium.com/@engsooncheah/enable-audio-in-azure-vm-216cff7eac5?source=rss-18b0bdc43bc0------2)
 - [Letter to myself 2020](https://dev.to/cheahengsoon/letter-to-myself-2020-2a44)
 - [Automate Your Social Media with Power Automate](https://medium.com/@engsooncheah/automate-your-social-media-with-power-automate-fa822a0d01cd?source=rss-18b0bdc43bc0------2)
-- [#myyearinreview YouTube 2020 Year In Review @TubeBuddy](https://www.youtube.com/watch?v=z9so3ZyJVUo)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
