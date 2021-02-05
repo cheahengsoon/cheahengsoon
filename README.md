@@ -30,11 +30,11 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 
 # Feeds
 <!-- BLOG-POST-LIST:START -->
+- [Azure Penetration Testing Cheat sheet](https://dev.to/cheahengsoon/azure-penetration-testing-cheat-sheet-4k2o)
 - [Implement Data Protection](https://www.youtube.com/watch?v=dsIKCEPEtlQ)
 - [FireEye announces technical details of SolarWinds hacker and provides free detection tools](https://dev.to/cheahengsoon/fireeye-announces-technical-details-of-solarwinds-hacker-and-provides-free-detection-tools-2lh6)
 - [Securing Identities - Lab: Implementing custom Role Based Access Control (RBAC) roles](https://www.youtube.com/watch?v=mA4-AWQQWc0)
 - [Can’t Ping AzURE VM](https://medium.com/@engsooncheah/cant-ping-azure-vm-2fce1cf45906?source=rss-18b0bdc43bc0------2)
-- [Enable Audio in Azure VM](https://medium.com/@engsooncheah/enable-audio-in-azure-vm-216cff7eac5?source=rss-18b0bdc43bc0------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
