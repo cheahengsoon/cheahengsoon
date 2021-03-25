@@ -34,7 +34,7 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 - [ScoutSuite: A Security Audit Tool for Azure](https://dev.to/cheahengsoon/scoutsuite-a-security-audit-tool-for-azure-1i8b)
 - [Azure Security Audit Tool - SkyArk](https://dev.to/cheahengsoon/azure-aws-security-audit-tool-skyark-388c)
 - [Cloud Penetration Testing - Microsoft Azure Cheat sheet](https://www.youtube.com/watch?v=Chm_3tgXaA8)
-- [Azure Penetration Testing](https://engsooncheah.medium.com/azure-penetration-testing-a96d0fb650e1?source=rss-18b0bdc43bc0------2)
+- [Azure Penetration Testing Cheat sheet](https://dev.to/cheahengsoon/azure-penetration-testing-cheat-sheet-4k2o)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
