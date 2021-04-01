@@ -30,11 +30,11 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 
 # Feeds
 <!-- BLOG-POST-LIST:START -->
+- [Azure Security Center](https://dev.to/cheahengsoon/azure-security-center-2ofe)
 - [Microsoft Azure的20大常见安全漏洞与配置错误](https://www.youtube.com/watch?v=BsEe-xp4lKE)
 - [UNBOXING RAZER CARD Premium @R Λ Z Ξ R](https://www.youtube.com/watch?v=IbgTCQOxFTw)
 - [ScoutSuite: A Security Audit Tool for Azure](https://dev.to/cheahengsoon/scoutsuite-a-security-audit-tool-for-azure-1i8b)
 - [Azure Security Audit Tool - SkyArk](https://dev.to/cheahengsoon/azure-aws-security-audit-tool-skyark-388c)
-- [Cloud Penetration Testing - Microsoft Azure Cheat sheet](https://www.youtube.com/watch?v=Chm_3tgXaA8)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
