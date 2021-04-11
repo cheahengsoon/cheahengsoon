@@ -30,11 +30,11 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 
 # Feeds
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Security, Compliance, and Identity Fundamentals](https://www.youtube.com/watch?v=kfKy60lLyL0)
 - [Protect Hybrid Cloud with Azure Security Center](https://www.youtube.com/watch?v=-gNFlINIFuc)
 - [#GlobalAzure 20 common security vulnerabilities and misconfiguration in Azure](https://www.youtube.com/watch?v=U5g5gVst0Zo)
 - [Key Vault](https://dev.to/cheahengsoon/key-vault-4i7k)
 - [Storage Security](https://dev.to/cheahengsoon/storage-security-4gp5)
-- [Host Security](https://dev.to/cheahengsoon/host-security-ci2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
