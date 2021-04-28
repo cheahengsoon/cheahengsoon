@@ -30,11 +30,11 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 
 # Feeds
 <!-- BLOG-POST-LIST:START -->
+- [Threat and Vulnerability Management](https://www.youtube.com/watch?v=i6W1HCfRoM8)
+- [Investigate and remediate threats with Microsoft Defender for Endpoint](https://www.youtube.com/watch?v=cKRn34zCrYs)
+- [Microsoft 365 Defender](https://www.youtube.com/watch?v=VcS0QoD2aOo)
+- [Microsoft Defender for Identity & O365](https://www.youtube.com/watch?v=is-DHMxx230)
 - [Manage Security Operations](https://www.youtube.com/watch?v=S2-YlFZONqw)
-- [Secure data and applications](https://www.youtube.com/watch?v=L-g8Hgg2Lzo)
-- [Implement Platform Protection](https://www.youtube.com/watch?v=uny70EPwlT0)
-- [Manage Identity and Access - Part 2](https://www.youtube.com/watch?v=uwP3k5E9tSg)
-- [Manage Identity and Access - Part 1](https://www.youtube.com/watch?v=DFQOuHZkyfc)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
