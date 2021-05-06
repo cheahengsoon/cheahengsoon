@@ -28,9 +28,7 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cheahengsoon)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://www.youtube.com/channel/UCb09I4K-VYU-KMh0vFewUMw">
- <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCb09I4K-VYU-KMh0vFewUMw&key=AIzaSyAoME8v2HgGWFa7wgprS4pFUytIhurun7k"/>
-</a>
+
 # Feeds
 <!-- BLOG-POST-LIST:START -->
 - [Microsoft Information Protection Administrator- Part 1](https://www.youtube.com/watch?v=H2NT5fSHwAA)
