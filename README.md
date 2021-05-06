@@ -18,6 +18,10 @@ Eng Soon is a Microsoft MVP and certified Professional with more than 7 years of
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 
+<a href="https://www.youtube.com/channel/UCb09I4K-VYU-KMh0vFewUMw">
+ <img alt="youtube views" src="https://github-readme-youtube-stats.herokuapp.com/views/index.php?id=UCb09I4K-VYU-KMh0vFewUMw&key=AIzaSyAoME8v2HgGWFa7wgprS4pFUytIhurun7k"/>
+</a>
+
 Email: cheahengsoon@live.com.my
 
 Speaker Profile: https://sessionize.com/eng-soon-cheah
