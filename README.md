@@ -38,11 +38,11 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 
 # Feeds
 <!-- BLOG-POST-LIST:START -->
-- [Key Vault](https://dev.to/cheahengsoon/key-vault-4i7k)
-- [Storage Security](https://dev.to/cheahengsoon/storage-security-4gp5)
-- [Host Security](https://dev.to/cheahengsoon/host-security-ci2)
-- [Database Security](https://dev.to/cheahengsoon/database-security-1g2p)
-- [Azure Security Center](https://dev.to/cheahengsoon/azure-security-center-2ofe)
+- [Renewal Exam AZ-104: Microsoft Azure Administrator](https://www.youtube.com/watch?v=UChiKnnXtWc)
+- [AI Security Risk Assessment using Counterfit](https://www.youtube.com/watch?v=dC2R1-IYMNU)
+- [Microsoft Information Protection Administrator- Part 1](https://www.youtube.com/watch?v=H2NT5fSHwAA)
+- [Microsoft Information Protection Administrator - Part 2](https://www.youtube.com/watch?v=2Gn6CCqpNaU)
+- [Microsoft Information Protection Administrator - Part 3](https://www.youtube.com/watch?v=ERL01zo4stA)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
