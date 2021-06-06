@@ -38,11 +38,11 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 
 # Feeds
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Security Operations Analyst - Part 1](https://www.youtube.com/watch?v=hk4ElM-6MrY)
 - [Azure Security Best Practices You Need to Know](https://www.youtube.com/watch?v=LAW6ZT0_GG0)
 - [Renewal Exam AZ-104: Microsoft Azure Administrator](https://www.youtube.com/watch?v=UChiKnnXtWc)
 - [AI Security Risk Assessment using Counterfit](https://www.youtube.com/watch?v=dC2R1-IYMNU)
 - [Microsoft Information Protection Administrator - Overall](https://www.youtube.com/watch?v=ZZfypQ63uAo)
-- [Mitigate threats using Microsoft Defender for Endpoint](https://www.youtube.com/watch?v=UeHRdoENz_w)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
