@@ -38,7 +38,7 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 
 # Feeds
 <!-- BLOG-POST-LIST:START -->
-- [Renewal For AZ-500](https://engsooncheah.medium.com/renewal-for-az-500-170a067c1c49?source=rss-18b0bdc43bc0------2)
+- [Renewal For AZ-500 Microsoft Azure Security Technologies](https://engsooncheah.medium.com/renewal-for-az-500-170a067c1c49?source=rss-18b0bdc43bc0------2)
 - [Microsoft Security Operations Analyst - Part 5](https://www.youtube.com/watch?v=MpVcWwMpLCg)
 - [Microsoft Security Operations Analyst - Part 4](https://www.youtube.com/watch?v=3WypBTDoINo)
 - [Microsoft Security Operations Analyst - Part 3](https://www.youtube.com/watch?v=jKbuVUbIWys)
