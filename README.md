@@ -38,11 +38,11 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 
 # Feeds
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Security Operations Analyst - Part 8](https://www.youtube.com/watch?v=zaoUiewiwO8)
 - [Microsoft Security Operations Analyst - Part 7](https://www.youtube.com/watch?v=q0Zu31idOI4)
 - [Microsoft Security Operations Analyst - Part 6](https://www.youtube.com/watch?v=ZrlB1Rz2Ay4)
 - [Renewal For AZ-500 Microsoft Azure Security Technologies](https://engsooncheah.medium.com/renewal-for-az-500-170a067c1c49?source=rss-18b0bdc43bc0------2)
 - [Microsoft Security Operations Analyst - Part 5](https://www.youtube.com/watch?v=MpVcWwMpLCg)
-- [Microsoft Security Operations Analyst - Part 4](https://www.youtube.com/watch?v=3WypBTDoINo)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
