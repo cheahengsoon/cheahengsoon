@@ -38,11 +38,11 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 
 # Feeds
 <!-- BLOG-POST-LIST:START -->
+- [Microsoft Security Operations Analyst - Part 9](https://www.youtube.com/watch?v=Gxh9YgpQLDo)
 - [Azure tenant security Solution (AzTS)](https://engsooncheah.medium.com/azure-tenant-security-solution-azts-1ae07e1bff73?source=rss-18b0bdc43bc0------2)
 - [Azure Tenant Security Solution (AzTS)](https://dev.to/cheahengsoon/azure-tenant-security-solution-azts-g2k)
 - [Microsoft Security Operations Analyst - Part 8](https://www.youtube.com/watch?v=zaoUiewiwO8)
 - [Microsoft Security Operations Analyst - Part 7](https://www.youtube.com/watch?v=q0Zu31idOI4)
-- [Microsoft Security Operations Analyst - Part 6](https://www.youtube.com/watch?v=ZrlB1Rz2Ay4)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
