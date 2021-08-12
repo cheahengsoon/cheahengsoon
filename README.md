@@ -41,8 +41,8 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 - [Imaging Thumb drive by Python](https://engsooncheah.medium.com/imaging-thumb-drive-by-python-750c8007ec1f?source=rss-18b0bdc43bc0------2)
 - [Office365/Microsoft365 Audit Log limitation](https://engsooncheah.medium.com/office365-microsoft365-audit-log-limitation-cf83832bec2b?source=rss-18b0bdc43bc0------2)
 - [Export OneDrive for Business/SharePoint Online data via Office365/Microsoft 365 Admin Portal](https://engsooncheah.medium.com/export-onedrive-for-business-sharepoint-data-via-office365-microsoft-365-admin-portal-1753a9542245?source=rss-18b0bdc43bc0------2)
+- [Microsoft Security Operations Analyst - Part 10](https://www.youtube.com/watch?v=puzc7F1vx1g)
 - [Export all pst file via Office365/Microsoft 365 Admin Portal](https://engsooncheah.medium.com/export-all-pst-file-via-office365-ba5ac275588b?source=rss-18b0bdc43bc0------2)
-- [Azure tenant security Solution (AzTS)](https://engsooncheah.medium.com/azure-tenant-security-solution-azts-1ae07e1bff73?source=rss-18b0bdc43bc0------2)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
