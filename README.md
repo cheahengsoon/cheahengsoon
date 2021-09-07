@@ -38,11 +38,11 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 
 # Feeds
 <!-- BLOG-POST-LIST:START -->
+- [The relationship between Microsoft FTE and Microsoft MVP](https://engsooncheah.medium.com/the-relationship-between-microsoft-fte-and-microsoft-mvp-12b388c2e24e?source=rss-18b0bdc43bc0------2)
+- [Imaging Thumb drive by Python](https://engsooncheah.medium.com/imaging-thumb-drive-by-python-750c8007ec1f?source=rss-18b0bdc43bc0------2)
+- [Office365/Microsoft365 Audit Log limitation](https://engsooncheah.medium.com/office365-microsoft365-audit-log-limitation-cf83832bec2b?source=rss-18b0bdc43bc0------2)
+- [Export OneDrive for Business/SharePoint Online data via Office365/Microsoft 365 Admin Portal](https://engsooncheah.medium.com/export-onedrive-for-business-sharepoint-data-via-office365-microsoft-365-admin-portal-1753a9542245?source=rss-18b0bdc43bc0------2)
 - [Microsoft Security Operations Analyst - Part 10](https://www.youtube.com/watch?v=puzc7F1vx1g)
-- [Microsoft Security Operations Analyst - Part 9](https://www.youtube.com/watch?v=Gxh9YgpQLDo)
-- [Azure Tenant Security Solution (AzTS)](https://dev.to/cheahengsoon/azure-tenant-security-solution-azts-g2k)
-- [Microsoft Security Operations Analyst - Part 8](https://www.youtube.com/watch?v=zaoUiewiwO8)
-- [Microsoft Security Operations Analyst - Part 7](https://www.youtube.com/watch?v=q0Zu31idOI4)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
