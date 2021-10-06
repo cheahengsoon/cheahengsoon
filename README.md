@@ -38,11 +38,11 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 
 # Feeds
 <!-- BLOG-POST-LIST:START -->
+- [Email Manipulation in M365/O365 Email](https://engsooncheah.medium.com/email-manipulation-in-m365-o365-email-efcd0a82e67a?source=rss-18b0bdc43bc0------2)
 - [Test YouTube Short](https://www.youtube.com/watch?v=Gqt9KCIjJQo)
 - [Identity and Access Administrator - Part 3](https://www.youtube.com/watch?v=m9z_qNlcFNg)
 - [Identity and Access Administrator - Part 2](https://www.youtube.com/watch?v=ewaq1W34S2M)
 - [Identity and Access Administrator - Part 4](https://www.youtube.com/watch?v=QF5nu5yA38A)
-- [Identity and Access Administrator - Part 6](https://www.youtube.com/watch?v=I8iUaY5rjQ8)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
