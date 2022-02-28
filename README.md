@@ -38,11 +38,11 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 
 # Feeds
 <!-- BLOG-POST-LIST:START -->
-- [Renewal Exam SC-200 : Microsoft Security Operations Analyst](https://www.youtube.com/watch?v=uVmnCn3TQpY)
 - [Azure Compliance Scanning](https://dev.to/cheahengsoon/azure-compliance-scanning-16ne)
-- [Design and implement network security](https://www.youtube.com/watch?v=YcY164uotvI)
 - [November Update — Core eDiscovery UI](https://engsooncheah.medium.com/november-update-core-ediscovery-ui-8922594fdbef?source=rss-18b0bdc43bc0------2)
 - [Advanced eDiscovery for Microsoft Teams Chat](https://engsooncheah.medium.com/advanced-ediscovery-for-microsoft-teams-chat-e1af09e52bf4?source=rss-18b0bdc43bc0------2)
+- [Microsoft has released a Playwright-Python](https://dev.to/cheahengsoon/microsoft-has-released-a-playwright-python-1bg7)
+- [Self Learning or Official Course Training](https://dev.to/cheahengsoon/self-learning-or-official-course-training-5hdb)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
