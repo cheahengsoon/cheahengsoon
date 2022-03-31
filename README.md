@@ -38,11 +38,11 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 
 # Feeds
 <!-- BLOG-POST-LIST:START -->
-- [Guessing Azure AD credentials using MSOLSpray](https://www.youtube.com/watch?v=Ech8Ah0dGLw)
-- [#GlobalAzure Azure Offensive Security](https://www.youtube.com/watch?v=VYyB1THo5hw)
-- [Renewal Exam SC-200 : Microsoft Security Operations Analyst](https://www.youtube.com/watch?v=uVmnCn3TQpY)
-- [Azure Compliance Scanning](https://dev.to/cheahengsoon/azure-compliance-scanning-16ne)
-- [Design and implement network security](https://www.youtube.com/watch?v=YcY164uotvI)
+- [Azure Penetration Testing Demo](https://www.youtube.com/watch?v=P09_5vopJXw)
+- [Stealing and reusing tokens from an authenticated Azure admin system](https://www.youtube.com/watch?v=JukNsaVC43M)
+- [Escalating privileges using Cloud Shell account](https://www.youtube.com/watch?v=ow2ACVpbpCM)
+- [Dumping Azure Storage Keys using MicroBurst](https://www.youtube.com/watch?v=PoW2H4_UMgg)
+- [Exploiting privileged VM resources using Lava](https://www.youtube.com/watch?v=6If_Ne4GHC0)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
