@@ -38,11 +38,11 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 
 # Feeds
 <!-- BLOG-POST-LIST:START -->
+- [Exfiltering VM disks using PowerZure](https://dev.to/cheahengsoon/exfiltering-vm-disks-using-powerzure-2fp5)
 - [Enumerating subscription information with MicroBurst](https://dev.to/cheahengsoon/enumerating-subscription-information-with-microburst-35a1)
 - [Azure Penetration Testing Demo](https://www.youtube.com/watch?v=P09_5vopJXw)
 - [Stealing and reusing tokens from an authenticated Azure admin system](https://www.youtube.com/watch?v=JukNsaVC43M)
 - [Escalating privileges using Cloud Shell account](https://www.youtube.com/watch?v=ow2ACVpbpCM)
-- [Dumping Azure Storage Keys using MicroBurst](https://www.youtube.com/watch?v=PoW2H4_UMgg)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
