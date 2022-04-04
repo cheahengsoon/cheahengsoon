@@ -38,11 +38,11 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 
 # Feeds
 <!-- BLOG-POST-LIST:START -->
+- [Extracting stored passwords and certificates from Automation accounts](https://dev.to/cheahengsoon/extracting-stored-passwords-and-certificates-from-automation-accounts-f7n)
 - [Extracting credentials from App Service](https://dev.to/cheahengsoon/extracting-credentials-from-app-service-51e7)
 - [Exfiltering VM disks using PowerZure](https://dev.to/cheahengsoon/exfiltering-vm-disks-using-powerzure-2fp5)
 - [Enumerating subscription information with MicroBurst](https://dev.to/cheahengsoon/enumerating-subscription-information-with-microburst-35a1)
 - [Azure Penetration Testing Demo](https://www.youtube.com/watch?v=P09_5vopJXw)
-- [Stealing and reusing tokens from an authenticated Azure admin system](https://www.youtube.com/watch?v=JukNsaVC43M)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
