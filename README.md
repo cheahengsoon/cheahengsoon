@@ -38,11 +38,11 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 
 # Feeds
 <!-- BLOG-POST-LIST:START -->
+- [Abusing Managed Identities](https://dev.to/cheahengsoon/abusing-managed-identities-1oai)
 - [Escalating Privileges using a misconfigured service principal](https://dev.to/cheahengsoon/escalating-privileges-using-a-misconfigured-service-principal-o66)
 - [Extracting stored passwords and certificates from Automation accounts](https://dev.to/cheahengsoon/extracting-stored-passwords-and-certificates-from-automation-accounts-f7n)
 - [Extracting credentials from App Service](https://dev.to/cheahengsoon/extracting-credentials-from-app-service-51e7)
 - [Exfiltering VM disks using PowerZure](https://dev.to/cheahengsoon/exfiltering-vm-disks-using-powerzure-2fp5)
-- [Enumerating subscription information with MicroBurst](https://dev.to/cheahengsoon/enumerating-subscription-information-with-microburst-35a1)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
