@@ -38,11 +38,11 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 
 # Feeds
 <!-- BLOG-POST-LIST:START -->
+- [Soft Deleted Blobs](https://dev.to/cheahengsoon/soft-deleted-blobs-3eo1)
 - [#GlobalAzure Azure Offensive Security &lpar;Edited&rpar;](https://www.youtube.com/watch?v=VYyB1THo5hw)
-- [Azure Penetration Testing Demo](https://www.youtube.com/watch?v=P09_5vopJXw)
-- [Design and implement network security](https://www.youtube.com/watch?v=YcY164uotvI)
-- [November Update — Core eDiscovery UI](https://engsooncheah.medium.com/november-update-core-ediscovery-ui-8922594fdbef?source=rss-18b0bdc43bc0------2)
-- [Advanced eDiscovery for Microsoft Teams Chat](https://engsooncheah.medium.com/advanced-ediscovery-for-microsoft-teams-chat-e1af09e52bf4?source=rss-18b0bdc43bc0------2)
+- [Anonymous Blob Access](https://dev.to/cheahengsoon/anonymous-blob-access-2fd6)
+- [Abusing Managed Identities](https://dev.to/cheahengsoon/abusing-managed-identities-1oai)
+- [Escalating Privileges using a misconfigured service principal](https://dev.to/cheahengsoon/escalating-privileges-using-a-misconfigured-service-principal-o66)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
