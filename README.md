@@ -40,9 +40,9 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 <!-- BLOG-POST-LIST:START -->
 - [Attacking and Defending Azure AD Cloud](https://www.youtube.com/watch?v=DQdOkGsVgEc)
 - [Azure Active Directory Fundamental Penetration Testing](https://www.youtube.com/watch?v=kDkCNRRlsN0)
-- [Soft Deleted Blobs](https://dev.to/cheahengsoon/soft-deleted-blobs-3eo1)
 - [#GlobalAzure Azure Offensive Security &lpar;Edited&rpar;](https://www.youtube.com/watch?v=VYyB1THo5hw)
-- [Anonymous Blob Access](https://dev.to/cheahengsoon/anonymous-blob-access-2fd6)
+- [Azure Penetration Testing Demo](https://www.youtube.com/watch?v=P09_5vopJXw)
+- [Design and implement network security](https://www.youtube.com/watch?v=YcY164uotvI)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
