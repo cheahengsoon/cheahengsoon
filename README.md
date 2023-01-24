@@ -38,11 +38,11 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 
 # Feeds
 <!-- BLOG-POST-LIST:START -->
+- [AWS Container](https://www.youtube.com/watch?v=b7PTFN-xYXQ)
+- [AWS Security Service](https://www.youtube.com/watch?v=FnpACNwiKj8)
+- [AWS Single Sign-On &lpar;AWS SSO&rpar;](https://www.youtube.com/watch?v=n1PAQ-1HxO8)
 - [Introduction to AWS Cloud Red Teaming](https://www.youtube.com/watch?v=3kIe9vxsG08)
 - [Attacking and Defending Azure AD Cloud](https://www.youtube.com/watch?v=DQdOkGsVgEc)
-- [Azure Active Directory Fundamental Penetration Testing](https://www.youtube.com/watch?v=kDkCNRRlsN0)
-- [Soft Deleted Blobs](https://dev.to/cheahengsoon/soft-deleted-blobs-3eo1)
-- [#GlobalAzure Azure Offensive Security &lpar;Edited&rpar;](https://www.youtube.com/watch?v=VYyB1THo5hw)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
