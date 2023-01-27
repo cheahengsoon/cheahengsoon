@@ -38,11 +38,11 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 
 # Feeds
 <!-- BLOG-POST-LIST:START -->
-- [AWS S3 Data Exfiltration](https://www.youtube.com/watch?v=kg-iivdKOms)
-- [AWS S3 Enumeration](https://www.youtube.com/watch?v=pK2V5Hv5zfc)
-- [AWS S3](https://www.youtube.com/watch?v=CY4l0p706mk)
-- [AWS Secret Manager Credential Access](https://www.youtube.com/watch?v=qO1WXi2EjQM)
-- [AWS Secret Manager Enumeration](https://www.youtube.com/watch?v=WY38_zzqVDA)
+- [AWS Lambda Abuse   Privilege Escalation](https://www.youtube.com/watch?v=LeUsTFqJdog)
+- [AWS Lambda Abuse   Persistance](https://www.youtube.com/watch?v=lwPb70Q66p8)
+- [AWS Lambda Abuse   Credential Access](https://www.youtube.com/watch?v=2GzSYKxs5Ew)
+- [AWS Lambda Abuse   Initial Access](https://www.youtube.com/watch?v=M2isNsaqJ3E)
+- [AWS Lambda   Enumeration](https://www.youtube.com/watch?v=_gXCEcTlY1Q)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
