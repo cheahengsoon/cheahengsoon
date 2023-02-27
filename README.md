@@ -38,11 +38,11 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 
 # Feeds
 <!-- BLOG-POST-LIST:START -->
+- [Azure - Cloud Pentesting Tools Overview](https://www.youtube.com/watch?v=sWQQ9ftBEgE)
+- [On Prem AD Attacks to Gain Privileged Access to Azure](https://www.youtube.com/watch?v=xWbtalIo_Bg)
+- [Azure - Golden SAML and Pass the Primary Refresh Token](https://www.youtube.com/watch?v=wz0WIF3JsSo)
+- [Azure - Abuse On Premise Technologies to Access Azure](https://www.youtube.com/watch?v=hUNSjm2rblE)
 - [Azure - Conditional Access Policies or Maintaining Persistence and Backdoors](https://www.youtube.com/watch?v=4rr8R66tbx0)
-- [Azure - Abusing Dynamic Groups and Managed Identities](https://www.youtube.com/watch?v=LpIjBbodErk)
-- [Azure - Identifying and Abusing Escalation Paths](https://www.youtube.com/watch?v=Wo0OKdWwOCw)
-- [Azure - Enumerating Azure &amp; Azure AD from Different Roles](https://www.youtube.com/watch?v=wxHgWgP8pEA)
-- [Azure - On Prem Azure Exploitation and Q&amp;A](https://www.youtube.com/watch?v=aOnGzkN1gxQ)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
