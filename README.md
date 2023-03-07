@@ -39,7 +39,7 @@ MVP Profile: https://mvp.microsoft.com/en-us/PublicProfile/5001279?fullName=Eng%
 # Feeds
 <!-- BLOG-POST-LIST:START -->
 - [Azure - Cloud Pentesting Tools Overview](https://www.youtube.com/watch?v=sWQQ9ftBEgE)
-- [On Prem AD Attacks to Gain Privileged Access to Azure](https://www.youtube.com/watch?v=xWbtalIo_Bg)
+- [Azure - On Prem AD Attacks to Gain Privileged Access to Azure](https://www.youtube.com/watch?v=xWbtalIo_Bg)
 - [Azure - Golden SAML and Pass the Primary Refresh Token](https://www.youtube.com/watch?v=wz0WIF3JsSo)
 - [Azure - Abuse On Premise Technologies to Access Azure](https://www.youtube.com/watch?v=hUNSjm2rblE)
 - [Azure - Conditional Access Policies or Maintaining Persistence and Backdoors](https://www.youtube.com/watch?v=4rr8R66tbx0)
