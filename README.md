@@ -36,11 +36,11 @@ Speaker Profile: https://sessionize.com/eng-soon-cheah
 
 # Feeds
 <!-- BLOG-POST-LIST:START -->
-- [Hybrid MultiCloud RedTeam [Part 3]](https://www.youtube.com/watch?v=hyMy0F8PMvI)
-- [Hybrid MultiCloud RedTeam [Part 1]](https://www.youtube.com/watch?v=tJG3qI6Osxo)
-- [Hybrid MultiCloud RedTeam [Part 2]](https://www.youtube.com/watch?v=a7gXhz1KzLM)
-- [Azure - Cloud Pentesting Tools Overview](https://www.youtube.com/watch?v=sWQQ9ftBEgE)
-- [Azure - On Prem AD Attacks to Gain Privileged Access to Azure](https://www.youtube.com/watch?v=xWbtalIo_Bg)
+- [Soft Deleted Blobs](https://dev.to/cheahengsoon/soft-deleted-blobs-3eo1)
+- [Anonymous Blob Access](https://dev.to/cheahengsoon/anonymous-blob-access-2fd6)
+- [Abusing Managed Identities](https://dev.to/cheahengsoon/abusing-managed-identities-1oai)
+- [Escalating Privileges using a misconfigured service principal](https://dev.to/cheahengsoon/escalating-privileges-using-a-misconfigured-service-principal-o66)
+- [Extracting stored passwords and certificates from Automation accounts](https://dev.to/cheahengsoon/extracting-stored-passwords-and-certificates-from-automation-accounts-f7n)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
