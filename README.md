@@ -34,11 +34,11 @@ Speaker Profile: https://sessionize.com/eng-soon-cheah
 
 # Feeds
 <!-- BLOG-POST-LIST:START -->
+- [Nuclei Azure Template](https://dev.to/cheahengsoon/nuclei-azure-template-1g71)
 - [Hybrid MultiCloud RedTeam [Part 3]](https://www.youtube.com/watch?v=hyMy0F8PMvI)
 - [Hybrid MultiCloud RedTeam [Part 1]](https://www.youtube.com/watch?v=tJG3qI6Osxo)
 - [Hybrid MultiCloud RedTeam [Part 2]](https://www.youtube.com/watch?v=a7gXhz1KzLM)
 - [Azure - Cloud Pentesting Tools Overview](https://www.youtube.com/watch?v=sWQQ9ftBEgE)
-- [Azure - On Prem AD Attacks to Gain Privileged Access to Azure](https://www.youtube.com/watch?v=xWbtalIo_Bg)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
