@@ -34,11 +34,11 @@ Speaker Profile: https://sessionize.com/eng-soon-cheah
 
 # Feeds
 <!-- BLOG-POST-LIST:START -->
+- [Attacking and Defending Azure Cloud 4](https://www.youtube.com/watch?v=7CQYkkwm6Z0)
+- [Attacking and Defending Azure Cloud 3](https://www.youtube.com/watch?v=_Vr6I3OJmog)
 - [Attacking and Defending Azure Cloud 2](https://www.youtube.com/watch?v=Cqeo2fQLEGg)
 - [Attacking and Defending Azure Cloud 1](https://www.youtube.com/watch?v=VgPU3ApnbVU)
 - [Nuclei Azure Template](https://dev.to/cheahengsoon/nuclei-azure-template-1g71)
-- [Hybrid MultiCloud RedTeam [Part 3]](https://www.youtube.com/watch?v=hyMy0F8PMvI)
-- [Hybrid MultiCloud RedTeam [Part 1]](https://www.youtube.com/watch?v=tJG3qI6Osxo)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
