@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eng Soon is a Microsoft MVP Alumni and certified Professional with more than 8 years of working experience ranging from Microsoft Azure,Xamarin,and Web. As a developer, besides the development task, he also involved in Azure Security , DevSecOps and Application Security.
+Eng Soon is a Microsoft MVP Alumni and certified Professional with more than 4 years of working experience for vulnerability assessment and penetration testing.
 
 <a href="https://linkedin.com/in/cheahengsoon" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
