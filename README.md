@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Eng Soon is a Microsoft MVP Alumni and certified Professional with more than 4 years of working experience for vulnerability assessment and penetration testing.
+Eng Soon is a Microsoft MVP Alumni and certified professional with over four years of experience in vulnerability assessment and penetration testing. He is currently focused on AI security.
 
 <a href="https://linkedin.com/in/cheahengsoon" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
