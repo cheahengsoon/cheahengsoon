@@ -10,9 +10,9 @@ Eng Soon is a Microsoft MVP Alumni and certified professional with over four yea
 <!-- BLOG-POST-LIST:START -->
 - [Promptfoo Frameworks and Plugins + Strategies](https://dev.to/cheahengsoon/promptfoo-frameworks-and-plugins-strategies-5bah)
 - [From Recon to Exfiltration: A Step-by-Step Red Team Exercise in Azure and AWS](https://dev.to/cheahengsoon/from-recon-to-exfiltration-a-step-by-step-red-team-exercise-in-azure-and-aws-1hnb)
-- [Nuclei Azure Template](https://dev.to/cheahengsoon/nuclei-azure-template-1g71)
-- [Soft Deleted Blobs](https://dev.to/cheahengsoon/soft-deleted-blobs-3eo1)
-- [Anonymous Blob Access](https://dev.to/cheahengsoon/anonymous-blob-access-2fd6)
+- [Attacking and Defending Azure Cloud 4](https://www.youtube.com/watch?v=7CQYkkwm6Z0)
+- [Attacking and Defending Azure Cloud 3](https://www.youtube.com/watch?v=_Vr6I3OJmog)
+- [Attacking and Defending Azure Cloud 2](https://www.youtube.com/watch?v=Cqeo2fQLEGg)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
