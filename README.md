@@ -8,11 +8,11 @@ Eng Soon is a Microsoft MVP Alumni and certified professional with over four yea
 
 # Feeds
 <!-- BLOG-POST-LIST:START -->
-- [AWS Red Teaming Assessment](https://dev.to/cheahengsoon/aws-red-teaming-assessment-2a62)
-- [Two Frameworks, One Mission: Rethinking Web Security Testing in the AI Era](https://dev.to/cheahengsoon/two-frameworks-one-mission-rethinking-web-security-testing-in-the-ai-era-4flb)
-- [Promptfoo Frameworks and Plugins + Strategies](https://dev.to/cheahengsoon/promptfoo-frameworks-and-plugins-strategies-5bah)
-- [From Recon to Exfiltration: A Step-by-Step Red Team Exercise in Azure and AWS](https://dev.to/cheahengsoon/from-recon-to-exfiltration-a-step-by-step-red-team-exercise-in-azure-and-aws-1hnb)
 - [Attacking and Defending Azure Cloud 4](https://www.youtube.com/watch?v=7CQYkkwm6Z0)
+- [Attacking and Defending Azure Cloud 3](https://www.youtube.com/watch?v=_Vr6I3OJmog)
+- [Attacking and Defending Azure Cloud 2](https://www.youtube.com/watch?v=Cqeo2fQLEGg)
+- [Attacking and Defending Azure Cloud 1](https://www.youtube.com/watch?v=VgPU3ApnbVU)
+- [Hybrid MultiCloud RedTeam [Part 3]](https://www.youtube.com/watch?v=hyMy0F8PMvI)
 <!-- BLOG-POST-LIST:END -->
 <!--
 **cheahengsoon/cheahengsoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
